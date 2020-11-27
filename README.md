@@ -1,3 +1,4 @@
+# Cursos-Python
 Scripts criados e scripts de curso feito nos canais supracitados.
 
 Através das versões dos scripts e das docstrings é possível ver os enunciados, minhas anotações, as variações de lógicas de programação utilizada ante aos exercícios propostos.
